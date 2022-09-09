@@ -1,0 +1,2 @@
+var = "HelloWolrd"
+print(var)
